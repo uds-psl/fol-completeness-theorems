@@ -1,0 +1,33 @@
+-R . Completeness
+
+axioms.v
+
+# Preliminaries
+Prelim.v
+DecidableEnumerable.v
+unscoped.v
+FullSyntax.v
+FullFOL.v
+Syntax.v
+FOL.v
+Enumeration.v
+ND.v
+Stability.v
+
+# Tarski Semantics
+GenConstructions.v
+GenTarski.v
+Consistency.v
+GenCompleteness.v
+
+# Kripke Semantics
+Kripke.v
+Gentzen.v
+KripkeCompleteness.v
+
+# Dialogue Semantics
+Sorensen.v
+SDialogues.v
+FullSequent.v
+DialogFragment.v
+DialogFull.v
